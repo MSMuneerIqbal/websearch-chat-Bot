@@ -2,7 +2,7 @@
 
 This is a **Tavily Web Search** tool built with **Streamlit** and the **Tavily API**, designed to search the web for relevant information based on user queries. The tool provides a user-friendly interface to search and display results related to a specific query.
 
-## Features
+## Feature
 
 - **Web Search**: Utilizes the Tavily API to search the web for relevant results.
 - **Streamlit Interface**: Simple, interactive web interface for entering search queries and viewing results.
@@ -10,7 +10,7 @@ This is a **Tavily Web Search** tool built with **Streamlit** and the **Tavily A
 - **API Integration**: The tool is integrated with the Tavily API to fetch real-time data.
 - **Error Handling**: Displays errors if there are issues with the search or API key.
 
-## Prerequisites
+## Prerequisite
 
 - Python 3.8 or higher.
 - The following Python packages are required:
